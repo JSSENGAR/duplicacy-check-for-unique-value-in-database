@@ -1,3 +1,4 @@
+
 # duplicacy-check-for-unique-value-in-database
 Function to avoid duplicate entry for any column  of any table 
 //Function to avoid duplicate entry for any column  of any table 
